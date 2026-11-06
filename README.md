@@ -1,4 +1,4 @@
-# EXP-5-Ex.No:5 Implementation of filter
+# EXP-5- Implementation of filter
 ## Name: DHANAPPRIYA S
 ## Register No: 212224230056
 # Aim
